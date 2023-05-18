@@ -1,4 +1,4 @@
-import CartManager from "../../cartManager.js";
+import CartManager from "../controllers/cartManager.js";
 import { Router } from "express";
 
 //----------------------------------------------------------CART ROUTER --------------------------------------------------------------------------
